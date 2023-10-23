@@ -1,0 +1,25 @@
+/* Vit bakgrundsfärg */
+body {
+    background-color: white;
+}
+
+/* Svart textfärg */
+h1, h2, p {
+    color: black;
+}
+
+/* Beige bakgrundsfärg för navigationsmenyn */
+nav {
+    background-color: beige;
+}
+
+/* Svart textfärg för navigationslänkar */
+nav a {
+    color: black;
+}
+
+/* Svart textfärg för sidfoten */
+footer {
+    color: black;
+}
+
