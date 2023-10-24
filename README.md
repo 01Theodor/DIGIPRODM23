@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Min Startsida</title>
-    <link rel="stylesheet" type="text/css" href="styles.css">
+<link rel="stylesheet" href="index2.css" type="text/css" />
 </head>
 <body>
     <header>
