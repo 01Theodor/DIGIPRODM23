@@ -30,8 +30,11 @@
             </ul>
         </section>
     </main>
-    <footer>
-        <p>&copy; 2023 Min Startsida</p>
+   <footer>
+        <h3>Kontaktuppgifter</h3>
+        <p>Adress: 123 Gatan, Staden, Landet</p>
+        <p>Telefon: 123-456-789</p>
+        <p>E-post: info@example.com</p>
     </footer>
 </body>
 </html>
