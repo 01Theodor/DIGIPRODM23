@@ -4,3 +4,9 @@ h1 {
 h2 {
   color: green;
 }
+footer {
+    background-color: #000; /* Svart bakgrundsfärg */
+    color: #fff; /* Vit textfärg */
+    padding: 10px;
+    text-align: center;
+}
