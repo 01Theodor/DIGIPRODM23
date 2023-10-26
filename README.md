@@ -6,7 +6,7 @@
 </head>
 <body>
     <header>
-        <h1>Välkommen till Min Startsida</h1>
+        <h1>TACK FÖR EN ROLIG KURS</h1>
     </header>
     <nav>
         <ul>
